@@ -1,0 +1,14 @@
+{
+  "name": "jsonschematojson",
+  "version": "1.0.3",
+  "description": "Pass json schema reference and convert it into json format",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "npm-jsonschematojson",
+    "jsonschema",
+    "json"
+  ],
+  "author": "Rishav Mittal",
+  "license": "ISC"
+}
